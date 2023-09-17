@@ -1,4 +1,4 @@
-id_store,date_created,dim_zipcode,dim_country,dim_currency
+id_store,store_date_created,dim_zipcode,dim_country,dim_currency
 360,2015-07-29 06:54:50,75001,FR,EUR
 351,2015-07-25 11:51:52,75002,FR,EUR
 4803,2017-10-04 13:56:31,75002,FR,EUR

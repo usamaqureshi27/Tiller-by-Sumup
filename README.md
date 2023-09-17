@@ -10,7 +10,7 @@ The interactive Dashboard based upon three metrics segmentation is shown in imag
 2. Payment types and performance
 3. Product Segmentation
 
-![Dashboard](Media/1st%20Dashboard.png)
+![Dashboard](Media/Dashboard.png)
 
 Click [here](https://public.tableau.com/app/profile/usama.zafar.qureshi/viz/Tiller/Dashboard1) for interactive tableau dashboard.
 

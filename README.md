@@ -1,7 +1,7 @@
 # Tiller by SumUp
 ## Goal of the project
-The purpose of this project is deep to dive in dataset of Tiller, a mobile point-of-sale (mPOS) company. As London based global payment services provider SumUp acquired Tiller in 2021, I analyzed their data from devices with main Business Objectives:
-- Highlight how data can be leveraged to grow a business (restuarant)
+The purpose of this project is to deep dive in dataset of Tiller, a business app to show all spending of their custromers in one simple dashboard. As London based global payment services provider SumUp which mainly owns mobile point-of-sale (mPOS) acquired Tiller in 2021, I analyzed their data from devices with main Business Objectives:
+- Highlight how data can be leveraged to grow a custromer business i.e. restuarant in this project.
 - Provide simple-to-use dashboard for business owners
 
 ## Tableau Dashboard
